@@ -4,7 +4,7 @@
 
 Este projeto realiza a limpeza, análise exploratória e exportação de relatórios a partir de uma base de clientes (base_clientes.csv).
 
-![Visual do Projeto](https://raw.githubusercontent.com/Tatianakami/Customer-Insights/main/project.jpg)
+![Visual do Projeto](Figure_1.png)
 
 
 O script executa as seguintes etapas:
