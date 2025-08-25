@@ -1,10 +1,10 @@
 📊 Análise de Base de Clientes
+
 🔖 Descrição
 
 Este projeto realiza a limpeza, análise exploratória e exportação de relatórios a partir de uma base de clientes (base_clientes.csv).
 
-![Descrição da imagem](project.jpg)
-
+![Visual do Projeto](https://raw.githubusercontent.com/TatianaKami/Customer-Insights/main/project.jpg)
 
 O script executa as seguintes etapas:
 
@@ -30,10 +30,6 @@ O script executa as seguintes etapas:
 ├── requirements.txt      # Dependências do projeto
 └── README.md             # Documentação do projeto
 
-
-
-
-
 ⚙️ Requisitos
 
 Python 3.8+
@@ -46,16 +42,16 @@ matplotlib
 
 seaborn
 
-📥 Instalação das dependências:
+Instalação das dependências:
 
 pip install -r requirements.txt
 
 ▶️ Como Executar
 
-Clone este repositório ou baixe os arquivos:
+Clone este repositório:
 
-git clone https://github.com/SEU-USUARIO/Limpeza_Automatica_Python.git
-cd Limpeza_Automatica_Python
+git clone https://github.com/Tatianakami/Customer-Insights.git
+cd Customer-Insights
 
 
 Coloque sua base de clientes no arquivo base_clientes.csv.
@@ -65,13 +61,11 @@ Execute o script principal:
 python main.py
 
 
-📊 O resultado será exibido no terminal e também exportado para o arquivo Resumo.xlsx com as seguintes abas:
+O resultado será exibido no terminal e exportado para o arquivo Resumo.xlsx com abas:
 
 resumo → Estatísticas descritivas da base
 
 correlacao → Matriz de correlação entre variáveis numéricas
-
-
 
 📝 Glossário
 
